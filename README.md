@@ -1,4 +1,5 @@
 # ⚡ Gemma Open-Weight Hackathon Web App
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hacktober-trial.streamlit.app)
 
 An interactive web application built with Streamlit that leverages Google's open-weight model (`gemma-4-26b-a4b-it`) via the `google-genai` SDK.
 
